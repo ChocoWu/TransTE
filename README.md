@@ -1,5 +1,5 @@
 # Transition-based end-to-end Triplet Extraction
-Source code for Neurocomputing paper:[Neural Transition Model for Aspect-based Sentiment Triplet Extraction with Triplet Memory](https://www.sciencedirect.com/science/article/abs/pii/S0925231221011887)
+
 ## Dependencies:
 + DyNET 2.1
 + Pyyaml 5.1

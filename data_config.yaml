@@ -1,0 +1,54 @@
+data_dir: 'data/'
+cur_dataset_dir: 'data/triplet'
+
+vocab_dir: 'data/vocab'
+token_vocab_file: 'token_vocab.txt'
+char_vocab_file: 'char_vocab.txt'
+action_vocab_file: 'action_vocab.txt'
+polarity_vocab_file: 'polarity_vocab.txt'
+role_type_vocab_file: 'role_type_vocab.txt'
+pos_vocab_file: 'pos_vocab.txt'
+dep_type_vocab_file: 'dep_type_vocab.txt'
+
+#write_eval_file_dev: 'data//eval/14lap/eval_file_dev.txt'
+#write_eval_file_test: 'data/eval/14lap/eval_file_test.txt'
+#pickle_dir: 'data/pickle/14lap'
+#vec_npy: 'data/pickle/14lap/word_vec.npy'
+#inst_pl_file: 'data/pickle/14lap/data.pl'
+#model_save_file: 'data/pickle/14lap/model.ckpt'
+
+#write_eval_file_dev: 'data//eval/14res/eval_file_dev.txt'
+#write_eval_file_test: 'data/eval/14res/eval_file_test.txt'
+#pickle_dir: 'data/pickle/14res'
+#vec_npy: 'data/pickle/14res/word_vec.npy'
+#inst_pl_file: 'data/pickle/14res/data.pl'
+#model_save_file: 'data/pickle/14res/model.ckpt'
+
+write_eval_file_dev: 'data//eval/15res/eval_file_dev.txt'
+write_eval_file_test: 'data/eval/15res/eval_file_test.txt'
+pickle_dir: 'data/pickle/15res'
+vec_npy: 'data/pickle/15res/word_vec.npy'
+inst_pl_file: 'data/pickle/15res/data.pl'
+model_save_file: 'data/pickle/15res/model.ckpt'
+
+
+#write_eval_file_dev: 'data//eval/16res/eval_file_dev.txt'
+#write_eval_file_test: 'data/eval/16res/eval_file_test.txt'
+#pickle_dir: 'data/pickle/16res'
+#vec_npy: 'data/pickle/16res/word_vec.npy'
+#inst_pl_file: 'data/pickle/16res/data.pl'
+#model_save_file: 'data/pickle/16res/model.ckpt'
+
+lap_14: 'data/triplet/14lap'
+res_14: 'data/triplet/14res'
+res_15: 'data/triplet/15res'
+res_16: 'data/triplet/16res'
+
+embedding_dir: '/'
+#embedding_file: 'cc.de.300.vec'
+embedding_file: 'glove.840B.300d.txt'
+embedding_type: 'glove.840B.300d'
+
+
+normalize_digits: false
+lower_case: false

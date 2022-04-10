@@ -1,0 +1,8 @@
+special_token_size	1
+token_size	3
+singleton_size	0
+singleton_max_count	1
+0	*NULL*	1
+1	POS	7178
+2	NEG	2412
+3	NEU	662

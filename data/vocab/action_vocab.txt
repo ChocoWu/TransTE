@@ -1,0 +1,13 @@
+special_token_size	0
+token_size	9
+singleton_size	0
+singleton_max_count	1
+0	DELETE	81310
+1	TERM_BACK	18063
+2	SHIFT	18063
+3	TERM_SHIFT_A	12949
+4	TERM_SHIFT_O	11152
+5	ARC	10188
+6	TERM_GEN_O	9171
+7	TERM_GEN_A	8892
+8	NO_ARC	5774

@@ -1,0 +1,1968 @@
+0 
+gold:	 <[1], [3, 4], POS>
+predicted:	 <[1], [3, 4], POS> 
+
+1 
+gold:	 <[10, 11], [9], POS>
+predicted:	 <[10], [9], POS> 
+
+2 
+gold:	 <[0], [3], POS> , <[0], [5], POS>
+predicted:	 <[0], [3], POS> , <[0], [5, 6], POS> 
+
+3 
+gold:	 <[5], [7], POS>
+predicted:	 <[5], [7], POS> 
+
+4 
+gold:	 <[18], [21], POS>
+predicted:	 <[4], [3], POS> 
+
+5 
+gold:	 <[3], [1], POS>
+predicted:	  
+
+6 
+gold:	 <[9, 10], [8], POS>
+predicted:	 <[9, 10], [8], POS> 
+
+7 
+gold:	 <[6, 7], [5], POS> , <[1, 2, 3], [0], POS>
+predicted:	 <[1, 2, 3], [0], POS> , <[6, 7], [5], POS> 
+
+8 
+gold:	 <[2, 3], [0], POS>
+predicted:	  
+
+9 
+gold:	 <[3], [1], POS> , <[6, 7], [1], POS> , <[11], [15], POS>
+predicted:	 <[3], [1], POS> , <[5, 6, 7], [1], POS> , <[11], [15], POS> , <[5, 6, 7], [15], POS> , <[3], [15], POS> 
+
+10 
+gold:	 <[5], [4], POS>
+predicted:	 <[5], [4], POS> 
+
+11 
+gold:	 <[8], [5, 6, 7], POS> , <[10, 11], [5, 6, 7], POS>
+predicted:	 <[17], [16], POS> 
+
+12 
+gold:	 <[1], [3], NEG> , <[1], [6], NEG> , <[1], [8], NEG>
+predicted:	 <[1], [3], NEG> , <[1], [6], NEG> , <[1], [8], NEG> 
+
+13 
+gold:	 <[1], [4, 5], NEG>
+predicted:	 <[1], [4], POS> 
+
+14 
+gold:	 <[0], [2], NEG> , <[0], [4], NEG>
+predicted:	 <[0], [2], POS> , <[0], [4], NEG> 
+
+15 
+gold:	 <[17], [16], POS> , <[20], [19], POS> , <[25], [24], POS>
+predicted:	 <[17], [16], POS> , <[20], [19], POS> , <[25], [24], POS> 
+
+16 
+gold:	 <[1], [0], POS> , <[4], [6], NEG>
+predicted:	 <[1], [0], POS> , <[4], [6], NEG> 
+
+17 
+gold:	 <[1, 2, 3, 4], [9], NEU>
+predicted:	 <[4], [9], NEG> , <[1], [9], NEG> 
+
+18 
+gold:	 <[9, 10], [8], POS> , <[15], [14], POS>
+predicted:	 <[9], [8], POS> , <[15], [14], POS> , <[15], [21], POS> 
+
+19 
+gold:	 <[0], [3], POS> , <[10, 11, 12, 13], [7], POS>
+predicted:	 <[0], [3], POS> 
+
+20 
+gold:	 <[1], [4], POS> , <[1], [6, 7], POS> , <[10], [11], POS>
+predicted:	 <[1], [4], POS> , <[1], [6, 7], POS> , <[10], [11], POS> 
+
+21 
+gold:	 <[1], [5], POS>
+predicted:	 <[1], [5], POS> 
+
+22 
+gold:	 <[8, 9, 10], [4], POS> , <[8, 9, 10], [6, 7], POS>
+predicted:	 <[8, 9, 10], [7], POS> 
+
+23 
+gold:	 <[9], [8], POS> , <[16], [15], POS> , <[18], [15], POS>
+predicted:	 <[9], [8], POS> , <[16], [15], POS> , <[18], [8], *NULL*> 
+
+24 
+gold:	 <[6, 7], [5], POS> , <[12], [11], POS>
+predicted:	 <[6, 7], [5], POS> , <[12], [11], POS> , <[12], [16], POS> 
+
+25 
+gold:	 <[4], [2], POS>
+predicted:	 <[4], [2], POS> 
+
+26 
+gold:	 <[6], [8], POS> , <[11], [12], POS> , <[15], [23], POS> , <[18], [23], POS> , <[20], [23], POS>
+predicted:	 <[6], [8], POS> , <[11], [12], POS> , <[18], [12], POS> , <[20], [12], POS> 
+
+27 
+gold:	 <[1], [4], POS> , <[8], [10], POS>
+predicted:	 <[1], [4], POS> , <[8], [10], POS> 
+
+28 
+gold:	 <[13], [12], NEG> , <[15], [12], NEG>
+predicted:	 <[15], [3], POS> 
+
+29 
+gold:	 <[2], [1], NEG>
+predicted:	 <[2], [1], POS> 
+
+30 
+gold:	 <[1], [7], NEG>
+predicted:	 <[1], [7], POS> 
+
+31 
+gold:	 <[3, 4], [6], POS>
+predicted:	 <[3, 4], [6], POS> 
+
+32 
+gold:	 <[8, 9], [3, 4], POS> , <[8, 9], [6, 7], POS>
+predicted:	 <[4], [3], POS> , <[8, 9], [7], POS> 
+
+33 
+gold:	 <[3, 4, 5], [1], POS> , <[3, 4, 5], [9], POS>
+predicted:	 <[3, 4, 5], [1], POS> , <[3, 4, 5], [9], POS> 
+
+34 
+gold:	 <[3], [6], POS> , <[3], [9], POS>
+predicted:	 <[3], [6], POS> , <[3], [9], POS> 
+
+35 
+gold:	 <[1], [3], POS>
+predicted:	 <[1], [3], POS> 
+
+36 
+gold:	 <[7], [9], POS> , <[11], [13], POS> , <[17, 18], [15], POS> , <[25, 26, 27, 28, 29, 30], [23], POS> , <[33, 34], [23], POS>
+predicted:	 <[5], [2], POS> , <[7], [9], POS> , <[11], [13], POS> , <[25, 26, 27, 28, 29, 30], [23], POS> , <[25, 26, 27, 28, 29, 30], [9], *NULL*> , <[25, 26, 27, 28, 29, 30], [2], *NULL*> 
+
+37 
+gold:	 <[1], [3], POS> , <[6], [8], POS>
+predicted:	 <[1], [3], POS> , <[6], [8], POS> 
+
+38 
+gold:	 <[0], [3], NEG>
+predicted:	 <[0], [3], POS> 
+
+39 
+gold:	 <[2, 3, 4], [0], POS> , <[7, 8, 9, 10], [0], POS>
+predicted:	 <[2, 3, 4], [0], POS> , <[7, 8, 9, 10], [0], POS> 
+
+40 
+gold:	 <[1], [0], POS> , <[5], [4], POS>
+predicted:	 <[1], [0], POS> 
+
+41 
+gold:	 <[1], [3, 4], POS> , <[7], [9], POS> , <[13], [15], POS>
+predicted:	 <[1], [4], POS> , <[7], [9], POS> , <[13], [15], POS> 
+
+42 
+gold:	 <[1], [0], POS> , <[4], [3], POS> , <[7], [6], POS> , <[14], [10], POS> , <[14], [13], POS>
+predicted:	 <[1], [0], POS> , <[4], [3], POS> , <[7], [6], POS> , <[14], [13], POS> , <[14], [10], POS> 
+
+43 
+gold:	 <[13], [15], POS> , <[13], [18], POS> , <[20, 21, 22], [24], POS> , <[30], [29], POS>
+predicted:	 <[11, 12, 13], [7], POS> , <[11, 12, 13], [15], POS> , <[20, 21, 22], [24], POS> 
+
+44 
+gold:	 <[1], [3], POS> , <[1], [6, 7], POS> , <[7], [6], POS>
+predicted:	 <[1], [3], POS> , <[7], [6], POS> 
+
+45 
+gold:	 <[1], [3], POS> , <[7], [6], POS>
+predicted:	 <[1], [3], POS> , <[7], [6], POS> 
+
+46 
+gold:	 <[6], [7, 8, 9, 10], NEG>
+predicted:	 <[6], [3], NEG> 
+
+47 
+gold:	 <[0], [2], POS> , <[14], [9], POS> , <[14], [12], POS>
+predicted:	 <[0], [2], POS> , <[0], [9], POS> , <[0], [12], POS> , <[14], [12], POS> 
+
+48 
+gold:	 <[1, 2], [5], POS>
+predicted:	 <[1, 2], [5], POS> 
+
+49 
+gold:	 <[3, 4], [6], POS>
+predicted:	 <[3, 4], [6], POS> 
+
+50 
+gold:	 <[11], [7, 8], NEG>
+predicted:	 <[11], [8], POS> 
+
+51 
+gold:	 <[1], [0], POS> , <[6], [3], POS> , <[6], [5], POS> , <[11], [10], POS>
+predicted:	 <[1], [0], POS> , <[1], [3], POS> , <[6], [5], POS> , <[6], [3], POS> , <[11], [10], POS> 
+
+52 
+gold:	 <[6], [3], NEG> , <[8], [3], NEG>
+predicted:	 <[6], [3], POS> , <[8], [3], POS> 
+
+53 
+gold:	 <[4], [15], NEG> , <[9], [15], NEG>
+predicted:	  
+
+54 
+gold:	 <[1], [3], POS> , <[6], [9], POS>
+predicted:	 <[1], [3], POS> , <[6], [9], POS> 
+
+55 
+gold:	 <[1, 2, 3], [5], POS>
+predicted:	 <[1, 2, 3], [5], POS> 
+
+56 
+gold:	 <[7], [10], POS> , <[13], [15], POS> , <[13], [17], POS> , <[13], [19], POS>
+predicted:	 <[7], [10], POS> , <[13], [15], POS> , <[13], [17], POS> , <[7], [17], *NULL*> , <[13], [19], POS> 
+
+57 
+gold:	 <[1], [6], POS>
+predicted:	 <[1], [6], POS> 
+
+58 
+gold:	 <[10], [12], POS> , <[16], [18], POS>
+predicted:	 <[10], [12], POS> 
+
+59 
+gold:	 <[6, 7], [12], NEG>
+predicted:	 <[6, 7], [12], NEG> 
+
+60 
+gold:	 <[1], [5], POS>
+predicted:	 <[1], [5], POS> 
+
+61 
+gold:	 <[6], [2, 3], POS>
+predicted:	 <[6], [2, 3], POS> 
+
+62 
+gold:	 <[27], [24], POS>
+predicted:	 <[2], [1], POS> 
+
+63 
+gold:	 <[9], [4], POS> , <[9], [6, 7, 8], POS>
+predicted:	 <[9], [4], POS> 
+
+64 
+gold:	 <[6], [5], NEG>
+predicted:	 <[6], [5], NEG> 
+
+65 
+gold:	 <[1], [3, 4, 5], NEG>
+predicted:	 <[1], [3], NEG> , <[1], [5], POS> 
+
+66 
+gold:	 <[1], [5, 6, 7], POS> , <[1], [9], POS>
+predicted:	 <[1], [5, 6, 7], POS> , <[1], [9], POS> 
+
+67 
+gold:	 <[1], [3], POS> , <[7], [9], POS>
+predicted:	 <[1], [3], POS> , <[7], [9], POS> 
+
+68 
+gold:	 <[0], [6], POS> , <[3], [6], POS>
+predicted:	 <[3], [6], POS> 
+
+69 
+gold:	 <[0], [14, 15], POS> , <[2], [14, 15], POS> , <[4], [14, 15], POS> , <[8, 9, 10, 11], [14, 15], POS>
+predicted:	 <[8, 9, 10, 11], [14], POS> , <[2], [14], POS> , <[0], [14], POS> 
+
+70 
+gold:	 <[1], [4], POS> , <[1], [6], POS>
+predicted:	 <[1], [4], POS> , <[1], [6], POS> 
+
+71 
+gold:	 <[1], [3], POS> , <[1], [5], POS>
+predicted:	 <[1], [3], POS> , <[1], [5], POS> 
+
+72 
+gold:	 <[1], [4], POS> , <[1], [8], POS>
+predicted:	 <[1], [4], POS> , <[1], [8], POS> 
+
+73 
+gold:	 <[5], [1], NEG>
+predicted:	 <[5], [1], POS> 
+
+74 
+gold:	 <[1], [5], NEG> , <[1], [7], NEG> , <[10, 11], [14, 15], NEG>
+predicted:	 <[1], [5], NEG> , <[10, 11], [15], POS> 
+
+75 
+gold:	 <[1], [3], POS> , <[1], [7], POS> , <[1], [9], POS>
+predicted:	 <[1], [3], POS> , <[1], [5], POS> , <[1], [7], POS> 
+
+76 
+gold:	 <[1], [3], POS> , <[6], [5], POS> , <[9], [8], POS> , <[13], [16], POS>
+predicted:	 <[1], [3], POS> , <[6], [5], POS> , <[9], [8], POS> , <[13], [16], POS> 
+
+77 
+gold:	 <[14], [13], POS> , <[14], [18], POS>
+predicted:	 <[14], [13], POS> 
+
+78 
+gold:	 <[6], [5], POS>
+predicted:	 <[6], [5], POS> 
+
+79 
+gold:	 <[1, 2, 3], [5], POS> , <[21], [23], POS>
+predicted:	 <[1, 2, 3], [5], POS> , <[21], [23], POS> 
+
+80 
+gold:	 <[7], [11], NEG> , <[16], [14], NEG>
+predicted:	 <[7], [11], NEG> 
+
+81 
+gold:	 <[0], [2], POS> , <[0], [5, 6], POS>
+predicted:	 <[0], [2], POS> , <[0], [6], POS> 
+
+82 
+gold:	 <[9], [8], POS> , <[12], [11], POS>
+predicted:	 <[9], [8], POS> , <[12], [11], POS> 
+
+83 
+gold:	 <[1], [4], NEG>
+predicted:	 <[1], [4], POS> 
+
+84 
+gold:	 <[1], [4], POS>
+predicted:	 <[1], [4], POS> 
+
+85 
+gold:	 <[18], [6, 7, 8, 9], POS>
+predicted:	 <[18], [7], POS> 
+
+86 
+gold:	 <[5], [12], POS> , <[5], [14], POS> , <[7], [12], POS> , <[7], [14], POS> , <[9], [12], POS> , <[9], [14], POS> , <[17, 18], [23, 24], POS>
+predicted:	 <[9], [12], POS> , <[7], [12], POS> , <[9], [14], POS> , <[7], [14], POS> , <[17, 18], [24], POS> 
+
+87 
+gold:	 <[1], [5], POS> , <[1], [7], POS>
+predicted:	 <[1], [5], POS> , <[1], [7], POS> 
+
+88 
+gold:	 <[1], [3], POS>
+predicted:	 <[1], [3], POS> 
+
+89 
+gold:	 <[1, 2], [8], NEG>
+predicted:	 <[1, 2], [8], NEG> 
+
+90 
+gold:	 <[0], [4], POS>
+predicted:	 <[0], [4], POS> 
+
+91 
+gold:	 <[1, 2], [4], POS>
+predicted:	 <[1, 2], [4], POS> 
+
+92 
+gold:	 <[1], [4], POS> , <[14, 15], [13], POS>
+predicted:	 <[1], [4], POS> 
+
+93 
+gold:	 <[5, 6], [3], POS> , <[8, 9], [3], POS> , <[11, 12], [3], POS> , <[14], [3], POS> , <[17, 18], [3], POS>
+predicted:	  
+
+94 
+gold:	 <[11], [15, 16, 17], POS> , <[13], [15, 16, 17], POS>
+predicted:	 <[3], [5, 6, 7, 8], NEG> , <[13], [5, 6, 7, 8], POS> 
+
+95 
+gold:	 <[3, 4], [14], POS> , <[3, 4], [17], POS> , <[7], [14], POS> , <[7], [17], POS> , <[11], [14], POS> , <[11], [17], POS>
+predicted:	 <[11], [17], POS> , <[7], [17], POS> , <[3, 4], [17], POS> 
+
+96 
+gold:	 <[1], [4], POS> , <[1], [6], POS> , <[1], [8], POS>
+predicted:	 <[1], [4], POS> , <[1], [6], POS> , <[1], [8], POS> 
+
+97 
+gold:	 <[1], [4, 5], NEG> , <[1], [7], NEG> , <[10], [12], POS>
+predicted:	 <[1], [5], POS> , <[10], [12], POS> 
+
+98 
+gold:	 <[4, 5, 6], [2], POS> , <[4, 5, 6], [11], POS>
+predicted:	 <[4, 5, 6], [2], POS> , <[4, 5, 6], [11], POS> 
+
+99 
+gold:	 <[8], [6], POS> , <[8], [12], POS> , <[17], [20], POS>
+predicted:	 <[8], [6], POS> , <[13], [12], POS> 
+
+100 
+gold:	 <[6], [5], NEG>
+predicted:	 <[6], [5], NEG> 
+
+101 
+gold:	 <[1, 2], [4], NEG> , <[1, 2], [6], NEG>
+predicted:	 <[1, 2], [4], NEG> , <[1, 2], [6], NEG> 
+
+102 
+gold:	 <[3], [8], NEG> , <[5], [8], NEG>
+predicted:	 <[5], [7, 8], NEG> , <[3], [7, 8], NEG> 
+
+103 
+gold:	 <[1], [6], NEG>
+predicted:	 <[1], [6], NEG> 
+
+104 
+gold:	 <[1], [3], POS> , <[6], [3], POS> , <[6], [11], POS>
+predicted:	 <[1], [3], POS> , <[6], [9], POS> 
+
+105 
+gold:	 <[10], [9], POS>
+predicted:	 <[10], [9], POS> 
+
+106 
+gold:	 <[2], [17], POS> , <[7, 8], [6], POS> , <[13, 14], [12], POS>
+predicted:	  
+
+107 
+gold:	 <[4, 5], [3], POS>
+predicted:	 <[4, 5], [3], POS> 
+
+108 
+gold:	 <[1, 2], [5], POS>
+predicted:	 <[1, 2], [5], POS> 
+
+109 
+gold:	 <[2], [4], POS>
+predicted:	 <[2], [4], POS> 
+
+110 
+gold:	 <[2], [0], POS> , <[5], [0], POS>
+predicted:	  
+
+111 
+gold:	 <[1, 2], [6], POS>
+predicted:	 <[1, 2], [5, 6], POS> 
+
+112 
+gold:	 <[3, 4, 5, 6], [8], POS>
+predicted:	 <[3, 4, 5, 6], [8], POS> 
+
+113 
+gold:	 <[2, 3], [1], POS>
+predicted:	 <[2, 3], [1], POS> 
+
+114 
+gold:	 <[0], [10], POS>
+predicted:	  
+
+115 
+gold:	 <[1], [4], POS>
+predicted:	 <[1], [4], POS> 
+
+116 
+gold:	 <[0], [3], POS> , <[6], [8, 9, 10, 11], POS>
+predicted:	 <[0], [3], POS> , <[6], [8, 9, 10, 11], POS> 
+
+117 
+gold:	 <[1, 2], [0], POS> , <[5, 6], [4], POS>
+predicted:	 <[1, 2], [0], POS> , <[5, 6], [4], POS> 
+
+118 
+gold:	 <[1, 2], [4], POS> , <[7, 8], [10], POS>
+predicted:	 <[1, 2], [4], POS> , <[7, 8], [10], POS> 
+
+119 
+gold:	 <[1], [3], POS> , <[1], [5], POS> , <[1], [9], POS>
+predicted:	 <[1], [3], POS> , <[1], [5, 6], POS> , <[1], [9], POS> 
+
+120 
+gold:	 <[5], [4], POS>
+predicted:	 <[5], [4], POS> 
+
+121 
+gold:	 <[19], [18], POS> , <[23], [22], POS>
+predicted:	 <[19], [22], POS> , <[23], [22], POS> 
+
+122 
+gold:	 <[2], [1], POS> , <[6], [4], NEU> , <[10], [4], NEU>
+predicted:	 <[2], [1], POS> , <[2], [4], POS> , <[6], [4], POS> , <[10], [4], POS> , <[10], [1], *NULL*> 
+
+123 
+gold:	 <[4], [3], POS>
+predicted:	 <[4], [3], POS> 
+
+124 
+gold:	 <[5], [8], POS> , <[11], [13, 14, 15], POS> , <[28, 29], [27], POS>
+predicted:	 <[5], [8], POS> , <[11], [13], POS> , <[5], [25], *NULL*> , <[28, 29], [27], POS> , <[28, 29], [25], POS> 
+
+125 
+gold:	 <[6], [8], POS>
+predicted:	 <[6], [8], POS> 
+
+126 
+gold:	 <[8], [7], NEG>
+predicted:	 <[8], [7], NEG> 
+
+127 
+gold:	 <[1], [4], POS> , <[11, 12], [15], POS>
+predicted:	 <[1], [4], POS> , <[11, 12], [15], POS> 
+
+128 
+gold:	 <[4, 5], [2], POS>
+predicted:	 <[4], [2], POS> 
+
+129 
+gold:	 <[1, 2], [0], POS>
+predicted:	 <[1, 2], [0], POS> 
+
+130 
+gold:	 <[5], [4], POS>
+predicted:	 <[5], [4], POS> 
+
+131 
+gold:	 <[1], [7, 8], NEG>
+predicted:	 <[1], [8], NEG> 
+
+132 
+gold:	 <[1], [3], POS> , <[1], [6], POS>
+predicted:	 <[1], [3], POS> , <[1], [6], POS> 
+
+133 
+gold:	 <[1], [4], POS> , <[1], [6], POS> , <[9], [12], POS>
+predicted:	 <[1], [4], POS> , <[1], [6], POS> , <[9], [12], POS> 
+
+134 
+gold:	 <[1], [3], POS> , <[5], [7], POS> , <[11, 12], [13], POS>
+predicted:	 <[1], [3], POS> , <[5], [7], POS> , <[11, 12], [13], POS> 
+
+135 
+gold:	 <[1, 2], [4], POS>
+predicted:	 <[1, 2], [4], POS> 
+
+136 
+gold:	 <[1], [0], POS> , <[4], [3], POS> , <[7, 8], [6], POS>
+predicted:	 <[1], [0], POS> , <[4], [3], POS> , <[7, 8], [6], POS> 
+
+137 
+gold:	 <[0, 1], [3], NEG> , <[0, 1], [5, 6], NEG>
+predicted:	 <[0, 1], [3], POS> 
+
+138 
+gold:	 <[7], [6], POS>
+predicted:	 <[7], [6], POS> 
+
+139 
+gold:	 <[5, 6], [1], POS> , <[9, 10, 11], [1], POS>
+predicted:	  
+
+140 
+gold:	 <[1], [7], POS> , <[4], [7], POS> , <[10], [13], POS> , <[10], [15, 16, 17], POS>
+predicted:	 <[4], [7], POS> , <[1], [7], POS> , <[10], [13], POS> , <[17], [15, 16, 17], POS> 
+
+141 
+gold:	 <[13, 14, 15, 16], [11], POS> , <[6, 7, 8, 9], [2], POS>
+predicted:	 <[8, 9], [11], POS> , <[8, 9], [13], POS> , <[15, 16], [13], POS> 
+
+142 
+gold:	 <[7], [6], POS> , <[10], [9], POS> , <[13], [12], POS> , <[16], [15], POS>
+predicted:	 <[1], [6], POS> , <[7], [6], POS> , <[10], [9], POS> , <[13], [12], POS> 
+
+143 
+gold:	 <[3, 4, 5, 6, 7, 8, 9], [11], POS>
+predicted:	 <[3, 4, 5, 6, 7, 8], [11], POS> 
+
+144 
+gold:	 <[8], [7], NEG>
+predicted:	 <[8], [7], NEG> 
+
+145 
+gold:	 <[2], [5, 6], POS> , <[2], [9], POS>
+predicted:	 <[2], [5, 6], POS> , <[2], [9], POS> 
+
+146 
+gold:	 <[4, 5, 6, 7, 8, 9], [2], POS>
+predicted:	 <[5, 6, 7, 8, 9], [4], POS> 
+
+147 
+gold:	 <[6, 7, 8, 9, 10], [5], POS>
+predicted:	 <[6, 7, 8, 9, 10], [5], POS> 
+
+148 
+gold:	 <[1], [0], POS> , <[3], [2], POS>
+predicted:	 <[1], [0], POS> , <[3], [2], POS> 
+
+149 
+gold:	 <[1], [4], POS> , <[1], [6], POS>
+predicted:	 <[1], [4], POS> , <[1], [6], POS> 
+
+150 
+gold:	 <[2, 3], [5], POS> , <[8], [10, 11, 12, 13], POS>
+predicted:	 <[2, 3], [5], POS> , <[8], [10, 11, 12, 13], POS> 
+
+151 
+gold:	 <[7], [6], POS> , <[10], [9], POS> , <[16], [15], POS>
+predicted:	 <[7], [6], POS> , <[10], [9], POS> , <[16], [15], POS> 
+
+152 
+gold:	 <[5, 6], [2], POS> , <[5, 6], [4], POS>
+predicted:	 <[5, 6], [4], POS> 
+
+153 
+gold:	 <[1], [6], POS> , <[10], [12], POS>
+predicted:	 <[1], [6], POS> , <[10], [12], POS> 
+
+154 
+gold:	 <[2], [7], NEG>
+predicted:	 <[2], [4], POS> 
+
+155 
+gold:	 <[4, 5], [3], POS> , <[10, 11], [9], POS> , <[21, 22], [18], POS> , <[24, 25], [18], POS> , <[32, 33], [28], POS>
+predicted:	 <[5], [3], POS> , <[10, 11], [9], POS> , <[29, 30, 31, 32, 33], [28], POS> 
+
+156 
+gold:	 <[8], [7], NEG> , <[12], [11], NEG> , <[20], [16], NEU> , <[16], [11], NEG>
+predicted:	 <[12], [11], NEG> 
+
+157 
+gold:	 <[4], [5], POS> , <[18], [22], POS> , <[18], [24], POS>
+predicted:	 <[4], [5], POS> , <[12], [15], POS> , <[18], [22], POS> 
+
+158 
+gold:	 <[8, 9], [12, 13], NEG> , <[2], [13], NEG>
+predicted:	 <[2], [6], NEG> 
+
+159 
+gold:	 <[3], [2], NEG> , <[10], [12, 13], NEG>
+predicted:	 <[3], [2], NEG> , <[10], [13], NEG> 
+
+160 
+gold:	 <[10, 11, 12], [10], POS>
+predicted:	 <[11, 12], [10], POS> 
+
+161 
+gold:	 <[1], [3], POS> , <[6], [8], POS>
+predicted:	 <[1], [3], POS> , <[6], [8], POS> 
+
+162 
+gold:	 <[1], [3], POS> , <[9, 10], [8], POS>
+predicted:	 <[1], [3], POS> 
+
+163 
+gold:	 <[5, 6, 7], [4], POS> , <[10], [9], POS>
+predicted:	 <[5, 6, 7], [4], POS> , <[10], [9], POS> 
+
+164 
+gold:	 <[2], [4], NEG>
+predicted:	 <[2], [4], NEG> 
+
+165 
+gold:	 <[1], [4, 5], NEG> , <[13], [15, 16, 17], NEG>
+predicted:	 <[1], [9], NEG> , <[13], [15, 16, 17], NEG> 
+
+166 
+gold:	 <[0, 1, 2, 3], [16], POS>
+predicted:	 <[0, 1, 2, 3], [16], POS> 
+
+167 
+gold:	 <[8], [7], NEG>
+predicted:	 <[8], [7], NEG> 
+
+168 
+gold:	 <[3], [6], NEG>
+predicted:	 <[3], [6], NEG> 
+
+169 
+gold:	 <[5, 6], [4], NEG>
+predicted:	 <[5, 6], [4], POS> 
+
+170 
+gold:	 <[0], [4, 5], POS>
+predicted:	  
+
+171 
+gold:	 <[3], [6], POS>
+predicted:	 <[3], [6], POS> 
+
+172 
+gold:	 <[2], [1], NEG> , <[10], [12], NEG> , <[19, 20, 21], [18], NEG>
+predicted:	 <[2], [1], NEG> , <[10], [12], NEG> , <[19, 20, 21], [18], NEG> 
+
+173 
+gold:	 <[4], [3], POS>
+predicted:	 <[4], [3], POS> 
+
+174 
+gold:	 <[1], [4], POS>
+predicted:	 <[1], [4], POS> 
+
+175 
+gold:	 <[1], [3], POS> , <[1], [6], POS>
+predicted:	 <[1], [3], POS> , <[1], [5, 6], POS> 
+
+176 
+gold:	 <[6], [3], POS> , <[6], [5], POS>
+predicted:	 <[6], [5], POS> 
+
+177 
+gold:	 <[13], [10], NEU>
+predicted:	 <[13], [10], POS> 
+
+178 
+gold:	 <[1], [3], POS>
+predicted:	 <[1], [3], POS> 
+
+179 
+gold:	 <[4], [2], POS>
+predicted:	 <[4], [2], POS> 
+
+180 
+gold:	 <[1], [4], POS>
+predicted:	 <[1], [4], POS> 
+
+181 
+gold:	 <[3], [5], POS>
+predicted:	 <[3], [5], POS> 
+
+182 
+gold:	 <[1], [4], POS>
+predicted:	 <[1], [4], POS> 
+
+183 
+gold:	 <[1, 2, 3, 4], [8], POS> , <[1, 2, 3, 4], [10], POS> , <[6], [8], POS> , <[6], [10], POS>
+predicted:	 <[6], [8], POS> , <[1], [8], POS> , <[6], [10], POS> , <[1], [10], *NULL*> 
+
+184 
+gold:	 <[16], [13], POS> , <[16], [15], POS>
+predicted:	 <[9], [12], POS> 
+
+185 
+gold:	 <[1], [4], POS> , <[7], [9], POS>
+predicted:	 <[1], [4], POS> , <[7], [9], POS> 
+
+186 
+gold:	 <[10, 11], [12], NEG>
+predicted:	  
+
+187 
+gold:	 <[5, 6], [4], POS>
+predicted:	 <[5, 6], [4], POS> 
+
+188 
+gold:	 <[1], [4], POS> , <[1], [6], POS>
+predicted:	 <[1], [4], POS> , <[1], [6], POS> 
+
+189 
+gold:	 <[3], [2], POS> , <[9], [6], POS> , <[9], [8], POS>
+predicted:	 <[3], [2], POS> , <[3], [6], POS> , <[9], [8], POS> , <[9], [6], POS> 
+
+190 
+gold:	 <[1], [4], POS> , <[7], [4], POS>
+predicted:	 <[1], [4], POS> , <[7], [4], POS> 
+
+191 
+gold:	 <[1], [3], POS> , <[8], [7], POS>
+predicted:	 <[1], [3], POS> , <[8], [7], POS> 
+
+192 
+gold:	 <[1], [3], POS> , <[1], [5], POS> , <[8], [10], POS> , <[8], [12], POS>
+predicted:	 <[1], [3], POS> , <[1], [5], POS> , <[8], [10], POS> , <[8], [12], POS> , <[1], [12], *NULL*> 
+
+193 
+gold:	 <[5], [4], POS>
+predicted:	 <[5], [4], POS> 
+
+194 
+gold:	 <[4], [3], POS> , <[7, 8, 9], [12], POS>
+predicted:	 <[4], [3], POS> , <[7, 8, 9], [12], POS> 
+
+195 
+gold:	 <[6], [16], POS> , <[9], [16], POS> , <[12], [16], POS>
+predicted:	 <[12], [16], POS> , <[9], [16], POS> 
+
+196 
+gold:	 <[2], [4], POS>
+predicted:	 <[2], [4], POS> 
+
+197 
+gold:	 <[3, 4, 5], [0], POS> , <[8], [0], POS>
+predicted:	  
+
+198 
+gold:	 <[5], [9], POS>
+predicted:	 <[5], [8], POS> 
+
+199 
+gold:	 <[9], [8], POS> , <[3, 4, 5], [12], POS>
+predicted:	 <[13], [12], POS> 
+
+200 
+gold:	 <[10, 11], [9], POS>
+predicted:	 <[10, 11], [9], POS> 
+
+201 
+gold:	 <[6], [3], POS> , <[16], [11], POS>
+predicted:	 <[6], [3], POS> , <[6], [11], POS> 
+
+202 
+gold:	 <[1], [4], POS> , <[16], [19], POS>
+predicted:	 <[1], [4], POS> , <[16], [19], POS> 
+
+203 
+gold:	 <[5], [4], POS> , <[10], [8], POS>
+predicted:	 <[5], [4], POS> , <[10], [8], POS> 
+
+204 
+gold:	 <[1], [3], POS> , <[1], [5], POS> , <[16], [18], POS>
+predicted:	 <[1], [3], POS> , <[1], [5], POS> , <[1], [9], POS> , <[16], [18], POS> 
+
+205 
+gold:	 <[6, 7], [3], POS>
+predicted:	  
+
+206 
+gold:	 <[17], [15], POS>
+predicted:	 <[17], [15], POS> 
+
+207 
+gold:	 <[0], [2], POS> , <[5], [4], POS>
+predicted:	 <[0], [2], POS> , <[0], [4, 5], POS> , <[14], [4, 5], POS> 
+
+208 
+gold:	 <[3], [4, 5, 6], NEG>
+predicted:	 <[3], [6], NEG> 
+
+209 
+gold:	 <[0], [3], POS> , <[7, 8], [6], NEG>
+predicted:	 <[0], [3], POS> , <[7, 8], [6], POS> 
+
+210 
+gold:	 <[23], [22], POS>
+predicted:	 <[6, 7], [5], POS> 
+
+211 
+gold:	 <[1], [4], POS> , <[1], [7], POS> , <[9], [14], NEG>
+predicted:	 <[1], [4], POS> , <[9], [7], POS> 
+
+212 
+gold:	 <[9], [8], POS>
+predicted:	 <[9], [8], POS> 
+
+213 
+gold:	 <[10], [8], POS>
+predicted:	  
+
+214 
+gold:	 <[8], [5], NEG> , <[8], [7], NEG>
+predicted:	 <[8], [5], NEG> , <[8], [12], POS> 
+
+215 
+gold:	 <[4], [3], POS>
+predicted:	 <[4], [3], POS> 
+
+216 
+gold:	 <[1], [0], NEG>
+predicted:	  
+
+217 
+gold:	 <[9], [13], NEU>
+predicted:	 <[14], [13], POS> 
+
+218 
+gold:	 <[1], [3], POS>
+predicted:	 <[1], [3], POS> 
+
+219 
+gold:	 <[3, 4], [13, 14], NEG>
+predicted:	 <[3, 4], [13, 14], NEG> 
+
+220 
+gold:	 <[1], [4], POS> , <[1], [6], POS> , <[10], [12], POS>
+predicted:	 <[1], [4], POS> , <[1], [6], POS> , <[10], [12], POS> 
+
+221 
+gold:	 <[6], [3], POS> , <[8], [3], POS>
+predicted:	 <[6], [3], POS> 
+
+222 
+gold:	 <[4, 5], [2], POS>
+predicted:	 <[4, 5], [2], POS> 
+
+223 
+gold:	 <[3], [2], POS> , <[5], [2], POS> , <[7], [2], POS> , <[10, 11], [2], POS> , <[10, 11], [17], POS>
+predicted:	 <[3], [2], POS> , <[5], [2], POS> , <[7], [2], POS> , <[10, 11], [2], POS> , <[10, 11], [17], POS> , <[3], [17], POS> 
+
+224 
+gold:	 <[1, 2], [5], POS> , <[1, 2], [7], POS> , <[1, 2], [10, 11, 12], POS>
+predicted:	 <[1], [5], POS> , <[1], [7], POS> , <[1], [10], POS> 
+
+225 
+gold:	 <[0], [2], POS>
+predicted:	 <[0], [2], POS> 
+
+226 
+gold:	 <[5], [4], POS> , <[1], [0], POS>
+predicted:	 <[1], [0], POS> , <[5], [4], POS> 
+
+227 
+gold:	 <[3], [5], POS> , <[8], [11], POS>
+predicted:	 <[3], [5], POS> , <[8], [11], POS> 
+
+228 
+gold:	 <[10], [12], POS> , <[21], [24], POS>
+predicted:	 <[10], [12], POS> , <[21], [24], POS> 
+
+229 
+gold:	 <[1], [4], POS> , <[15], [17], POS>
+predicted:	 <[1], [4], POS> , <[15], [17], POS> 
+
+230 
+gold:	 <[0], [4], POS>
+predicted:	 <[0], [4], POS> 
+
+231 
+gold:	 <[0], [5], NEG> , <[2], [5], NEG>
+predicted:	 <[2], [5], NEG> , <[0], [5], NEG> 
+
+232 
+gold:	 <[1, 2], [5], POS> , <[17], [23], POS>
+predicted:	 <[1, 2], [5], POS> , <[1, 2], [10], NEG> , <[17], [10], POS> 
+
+233 
+gold:	 <[5, 6], [1], POS>
+predicted:	 <[5, 6], [1], POS> 
+
+234 
+gold:	 <[1, 2], [4], POS> , <[1, 2], [6], POS>
+predicted:	 <[1, 2], [4], POS> , <[1, 2], [6], POS> 
+
+235 
+gold:	 <[1], [4], NEU>
+predicted:	 <[1], [9], POS> 
+
+236 
+gold:	 <[2, 3], [5], POS>
+predicted:	 <[2, 3], [5], POS> 
+
+237 
+gold:	 <[0, 1], [4], POS>
+predicted:	 <[5], [4], POS> 
+
+238 
+gold:	 <[4], [3], POS> , <[4], [7], POS>
+predicted:	 <[4], [3], POS> , <[4], [7], POS> 
+
+239 
+gold:	 <[1], [3], NEU> , <[5, 6], [3], NEU> , <[8], [3], NEU> , <[10], [3], NEU> , <[12], [3], NEU>
+predicted:	 <[1], [3], POS> , <[5, 6], [3], POS> , <[10], [3], POS> , <[12], [3], POS> 
+
+240 
+gold:	 <[6], [3], NEG>
+predicted:	 <[6], [3], POS> 
+
+241 
+gold:	 <[12], [15, 16], NEG> , <[27, 28, 29], [26], NEG>
+predicted:	 <[1, 2], [26], NEG> , <[29], [26], POS> 
+
+242 
+gold:	 <[1], [3], NEG> , <[6], [9], NEG>
+predicted:	 <[1], [3], NEG> , <[6], [9], POS> 
+
+243 
+gold:	 <[1], [3, 4], POS>
+predicted:	 <[1], [3, 4], POS> 
+
+244 
+gold:	 <[11], [4, 5], POS>
+predicted:	  
+
+245 
+gold:	 <[1, 2, 3], [6], POS> , <[1, 2, 3], [8], POS>
+predicted:	 <[1, 2, 3], [6], POS> , <[1, 2, 3], [8], POS> 
+
+246 
+gold:	 <[1], [4], POS>
+predicted:	 <[1], [4], POS> 
+
+247 
+gold:	 <[4], [8, 9, 10], POS>
+predicted:	 <[4, 5], [10], NEG> 
+
+248 
+gold:	 <[1, 2], [0], POS> , <[8], [0], NEU>
+predicted:	 <[1, 2], [0], POS> 
+
+249 
+gold:	 <[10], [7], NEG>
+predicted:	 <[10], [7], NEG> 
+
+250 
+gold:	 <[3], [8], POS> , <[3], [17, 18, 19], POS> , <[11], [8], POS>
+predicted:	 <[3], [8], POS> 
+
+251 
+gold:	 <[11], [9], POS> , <[11], [13], POS>
+predicted:	 <[2, 3], [9], POS> , <[11], [9], POS> 
+
+252 
+gold:	 <[1, 2], [4], NEG> , <[12], [11], NEG>
+predicted:	 <[1, 2], [4], NEG> , <[1, 2], [7, 8, 9, 10, 11, 12], POS> 
+
+253 
+gold:	 <[8], [2], POS>
+predicted:	  
+
+254 
+gold:	 <[1], [4, 5], POS> , <[10], [14, 15, 16], NEG>
+predicted:	 <[1], [5], NEG> , <[10], [13], NEG> 
+
+255 
+gold:	 <[7], [5], POS> , <[9], [5], POS> , <[11], [5], POS> , <[16, 17], [19, 20, 21, 22], POS>
+predicted:	 <[7], [5], POS> , <[9], [5], POS> , <[11], [5], POS> 
+
+256 
+gold:	 <[1, 2], [5], POS> , <[1, 2], [11], POS> , <[6], [5], POS> , <[12], [11], POS>
+predicted:	 <[6], [5], POS> , <[12], [11], POS> 
+
+257 
+gold:	 <[1], [3, 4], POS> , <[1], [6], POS> , <[4], [3], POS>
+predicted:	 <[1], [3, 4], POS> , <[1], [6], POS> 
+
+258 
+gold:	 <[3], [8, 9], POS>
+predicted:	  
+
+259 
+gold:	 <[1, 2, 3], [5], POS> , <[1, 2, 3], [7], POS> , <[13], [12], POS>
+predicted:	 <[1, 2, 3], [5], POS> , <[1, 2, 3], [7], POS> , <[9], [7], POS> 
+
+260 
+gold:	 <[1], [5], NEG> , <[8], [12], NEG>
+predicted:	 <[1], [5], NEG> , <[8], [12], NEG> 
+
+261 
+gold:	 <[26, 27], [19], POS> , <[26, 27], [22], POS> , <[26, 27], [24, 25], POS>
+predicted:	 <[25, 26], [5], POS> 
+
+262 
+gold:	 <[1], [4], NEG> , <[9], [12, 13], NEG>
+predicted:	 <[1], [4], NEG> , <[9], [11, 12, 13, 14], NEG> 
+
+263 
+gold:	 <[17], [15, 16], POS> , <[23], [22], POS>
+predicted:	 <[16, 17], [15], POS> , <[23], [22], POS> 
+
+264 
+gold:	 <[0], [13], POS>
+predicted:	 <[0, 1], [13], POS> 
+
+265 
+gold:	 <[8, 9], [7], POS> , <[13], [12], POS>
+predicted:	 <[8, 9], [7], POS> , <[13], [12], POS> 
+
+266 
+gold:	 <[3, 4], [12], POS> , <[6, 7], [12], POS> , <[9], [12], POS> , <[15], [18], POS>
+predicted:	 <[9], [12], POS> , <[15], [18], POS> 
+
+267 
+gold:	 <[21], [20], POS>
+predicted:	 <[21], [20], POS> 
+
+268 
+gold:	 <[1, 2, 3, 4], [6, 7], NEG>
+predicted:	 <[4], [10], POS> 
+
+269 
+gold:	 <[3, 4, 5], [1], POS> , <[3, 4, 5], [10], POS> , <[11], [10], POS>
+predicted:	 <[3, 4, 5], [1], POS> , <[11], [10], POS> 
+
+270 
+gold:	 <[23], [20], NEG>
+predicted:	 <[1], [20], NEG> , <[23], [20], NEG> 
+
+271 
+gold:	 <[23], [22], NEG> , <[9], [8], NEG>
+predicted:	  
+
+272 
+gold:	 <[10], [5], NEU>
+predicted:	 <[10], [5], POS> 
+
+273 
+gold:	 <[6], [11], NEU>
+predicted:	  
+
+274 
+gold:	 <[5], [7], NEU>
+predicted:	 <[5], [7], POS> 
+
+275 
+gold:	 <[1], [4], POS> , <[7], [9], POS>
+predicted:	 <[1], [4], POS> , <[7], [4], POS> , <[7], [9], POS> 
+
+276 
+gold:	 <[1], [3], POS> , <[6], [9], POS> , <[10], [9], POS>
+predicted:	 <[1], [3], POS> , <[6], [9], POS> 
+
+277 
+gold:	 <[3], [0, 1, 2], POS> , <[3], [4], POS>
+predicted:	 <[3], [1, 2], POS> 
+
+278 
+gold:	 <[5, 6], [4], POS>
+predicted:	 <[5], [4], POS> 
+
+279 
+gold:	 <[5], [8], POS> , <[11], [13], POS> , <[11], [15], POS> , <[11], [21], POS>
+predicted:	 <[5], [8], POS> , <[11], [13], POS> , <[5], [15], *NULL*> , <[11], [21], POS> , <[5], [21], *NULL*> 
+
+280 
+gold:	 <[1], [4], POS> , <[7], [9], POS>
+predicted:	 <[1], [4], POS> , <[7], [9], POS> 
+
+281 
+gold:	 <[4, 5], [3], NEG>
+predicted:	 <[4, 5], [3], POS> 
+
+282 
+gold:	 <[1, 2], [5], POS>
+predicted:	 <[1, 2], [5], POS> 
+
+283 
+gold:	 <[1], [0], POS>
+predicted:	 <[1], [0], POS> 
+
+284 
+gold:	 <[1, 2], [4], POS> , <[20, 21, 22], [13, 14, 15], NEG> , <[20, 21, 22], [20], NEG>
+predicted:	 <[1, 2], [5], POS> 
+
+285 
+gold:	 <[11], [8], POS> , <[11], [10], POS>
+predicted:	 <[2, 3, 4], [8], POS> 
+
+286 
+gold:	 <[3], [2], POS> , <[10], [12, 13, 14, 15, 16, 17], POS> , <[20], [22], POS> , <[20], [24], POS>
+predicted:	 <[3], [2], POS> , <[7, 8], [6], POS> , <[10], [12, 13, 14], POS> , <[10], [14], POS> 
+
+287 
+gold:	 <[4], [8], POS> , <[4], [10, 11, 12], POS> , <[4], [14], POS> , <[4], [16], POS>
+predicted:	 <[1], [8], POS> , <[1], [12], POS> , <[1], [14], POS> , <[1], [16], POS> 
+
+288 
+gold:	 <[17], [16], NEG> , <[13], [12], NEG>
+predicted:	 <[13], [12], POS> , <[17], [12], NEG> 
+
+289 
+gold:	 <[15, 16], [12], NEG>
+predicted:	  
+
+290 
+gold:	 <[1, 2], [4], POS> , <[7], [6], POS>
+predicted:	 <[1, 2], [4], POS> , <[7], [6, 7], POS> 
+
+291 
+gold:	 <[8], [5], POS> , <[8], [7], POS>
+predicted:	 <[8], [7], POS> 
+
+292 
+gold:	 <[9], [5], POS>
+predicted:	 <[3], [5], POS> 
+
+293 
+gold:	 <[1], [0], POS> , <[4], [3], POS> , <[7], [6], POS> , <[11], [10], POS> , <[17], [16], POS>
+predicted:	 <[4], [3], POS> , <[4], [0], POS> , <[7], [6], POS> , <[11], [10], POS> , <[17], [16], POS> 
+
+294 
+gold:	 <[11, 12], [10], NEU>
+predicted:	 <[11, 12], [10], POS> 
+
+295 
+gold:	 <[11], [31, 32, 33], POS>
+predicted:	 <[33], [31], POS> 
+
+296 
+gold:	 <[7], [4, 5, 6], NEU>
+predicted:	 <[5, 6, 7], [4], POS> 
+
+297 
+gold:	 <[3, 4, 5], [0, 1], POS> , <[3, 4, 5], [9], POS> , <[10], [9], POS> , <[14, 15, 16, 17, 18, 19], [34, 35], POS>
+predicted:	 <[3, 4, 5], [9], POS> , <[21, 22], [9], POS> , <[31], [35], POS> , <[21, 22], [35], POS> 
+
+298 
+gold:	 <[3, 4], [2], NEG>
+predicted:	 <[3], [2], NEG> 
+
+299 
+gold:	 <[7], [6], POS> , <[7], [9], POS> , <[7], [11], POS> , <[14, 15, 16], [13], POS>
+predicted:	 <[14, 15, 16], [13], POS> , <[14, 15, 16], [11], POS> 
+
+300 
+gold:	 <[10], [8], POS> , <[1, 2, 3], [5], POS>
+predicted:	 <[3], [5], POS> , <[10], [8], POS> 
+
+301 
+gold:	 <[3], [1], NEG>
+predicted:	  
+
+302 
+gold:	 <[30], [29], NEG> , <[33, 34], [29], NEG>
+predicted:	 <[4, 5], [29], NEG> , <[30], [29], NEG> 
+
+303 
+gold:	 <[15], [14], NEG>
+predicted:	 <[15], [14], POS> 
+
+304 
+gold:	 <[1], [10], POS> , <[1], [12], POS>
+predicted:	 <[1], [5], NEG> , <[7], [10], POS> 
+
+305 
+gold:	 <[19], [22], POS>
+predicted:	  
+
+306 
+gold:	 <[1], [3], POS> , <[6, 7], [5], POS> , <[6, 7], [10], POS>
+predicted:	 <[1], [3], POS> , <[6, 7], [5], POS> , <[6, 7], [10], POS> 
+
+307 
+gold:	 <[3], [4], POS>
+predicted:	  
+
+308 
+gold:	 <[33], [30, 31, 32], POS> , <[37], [36], POS> , <[39], [36], POS>
+predicted:	 <[37], [36], POS> , <[37], [8], POS> , <[39], [36], POS> , <[39], [8], *NULL*> 
+
+309 
+gold:	 <[6], [10], POS>
+predicted:	 <[6], [10], POS> 
+
+310 
+gold:	 <[2, 3], [1], NEG>
+predicted:	 <[2, 3], [1], NEG> 
+
+311 
+gold:	 <[6], [5], NEG> , <[7], [4, 5, 6], NEG>
+predicted:	 <[6, 7], [4, 5], POS> 
+
+312 
+gold:	 <[0, 1, 2, 3, 4], [6], POS> , <[12, 13], [10, 11], NEG>
+predicted:	 <[1, 2, 3, 4], [6], POS> , <[1, 2, 3, 4], [12], NEG> 
+
+313 
+gold:	 <[3], [0], POS> , <[8], [5, 6, 7], NEU> , <[11], [10], POS>
+predicted:	 <[11], [10], POS> 
+
+314 
+gold:	 <[0], [2], NEG> , <[6], [8], NEG>
+predicted:	 <[0], [2], NEG> , <[6], [8], NEG> 
+
+315 
+gold:	 <[2], [4], POS>
+predicted:	 <[2], [4], POS> 
+
+316 
+gold:	 <[2], [5], POS> , <[2], [7], POS>
+predicted:	 <[2], [5], POS> , <[2], [7], POS> 
+
+317 
+gold:	 <[2], [4, 5, 6], POS>
+predicted:	 <[2], [4, 5], POS> 
+
+318 
+gold:	 <[4], [0], POS> , <[4], [3], POS>
+predicted:	 <[4], [3], POS> , <[4], [0], POS> 
+
+319 
+gold:	 <[12], [11], POS>
+predicted:	 <[12], [11], POS> 
+
+320 
+gold:	 <[1], [3], POS>
+predicted:	 <[1], [3], POS> 
+
+321 
+gold:	 <[8], [11], POS>
+predicted:	 <[8], [11], POS> , <[1], [11], POS> 
+
+322 
+gold:	 <[6, 7], [2], NEG>
+predicted:	  
+
+323 
+gold:	 <[4, 5], [0], POS> , <[4, 5], [3], POS>
+predicted:	 <[4, 5], [3], POS> , <[4, 5], [0], POS> 
+
+324 
+gold:	 <[1], [3, 4], NEG>
+predicted:	 <[1], [4], NEG> , <[7], [11], NEG> 
+
+325 
+gold:	 <[9], [8], POS>
+predicted:	 <[9], [8], POS> 
+
+326 
+gold:	 <[3, 4, 5], [1], POS> , <[8, 9, 10, 11], [1], POS> , <[15, 16], [1], POS>
+predicted:	 <[3, 4, 5], [1], POS> , <[15, 16], [1], POS> 
+
+327 
+gold:	 <[12], [2, 3, 4], POS>
+predicted:	  
+
+328 
+gold:	 <[1, 2, 3, 4, 5, 6, 7], [9], POS>
+predicted:	 <[6, 7], [9], POS> , <[1, 2], [9], POS> 
+
+329 
+gold:	 <[1, 2, 3, 4], [7], NEU>
+predicted:	 <[8], [7], POS> 
+
+330 
+gold:	 <[5, 6, 7], [4], POS> , <[15, 16, 17], [4], NEU>
+predicted:	 <[5], [4], POS> 
+
+331 
+gold:	 <[0, 1], [0], POS> , <[0, 1], [45], POS> , <[6, 7, 8], [45], POS> , <[10], [45], POS> , <[12], [45], POS> , <[14], [45], POS> , <[16], [45], POS> , <[18], [45], POS> , <[20, 21], [45], POS> , <[24, 25], [45], POS> , <[28, 29], [45], POS> , <[31, 32], [45], POS> , <[34, 35], [45], POS> , <[39], [45], POS>
+predicted:	 <[34, 35], [45], POS> , <[31, 32], [45], POS> , <[18], [45], POS> , <[16], [45], POS> , <[14], [45], POS> , <[12], [45], POS> , <[10], [45], POS> 
+
+332 
+gold:	 <[4], [3], POS> , <[10, 11], [0], NEG>
+predicted:	 <[4], [3], POS> 
+
+333 
+gold:	 <[13], [12], POS>
+predicted:	  
+
+334 
+gold:	 <[1, 2], [5], POS>
+predicted:	 <[13], [5], POS> 
+
+335 
+gold:	 <[8], [9], NEG>
+predicted:	  
+
+336 
+gold:	 <[22], [20], POS> , <[24], [20], POS>
+predicted:	 <[24], [5], POS> 
+
+337 
+gold:	 <[14], [17], NEG> , <[14], [19], NEG> , <[25], [22, 23, 24], POS> , <[20], [19], POS>
+predicted:	 <[1, 2, 3], [17], POS> , <[1, 2, 3], [19], POS> , <[25], [24], POS> , <[25], [19], POS> 
+
+338 
+gold:	 <[5], [7, 8], NEU> , <[5], [10], NEU>
+predicted:	 <[5], [7, 8], POS> , <[5], [10], POS> 
+
+339 
+gold:	 <[10], [8], POS>
+predicted:	  
+
+340 
+gold:	 <[36], [34, 35], POS> , <[23], [22], POS>
+predicted:	 <[35, 36], [34], POS> 
+
+341 
+gold:	 <[6], [5], POS> , <[18], [20], POS>
+predicted:	 <[18], [20], POS> 
+
+342 
+gold:	 <[0], [2], POS> , <[8], [6], POS>
+predicted:	 <[0], [2], POS> , <[7, 8], [6], POS> 
+
+343 
+gold:	 <[8], [7], POS> , <[11], [7], POS>
+predicted:	 <[8], [7], POS> , <[17], [7], POS> 
+
+344 
+gold:	 <[1], [3], NEU>
+predicted:	 <[1], [3], POS> 
+
+345 
+gold:	 <[1], [3], NEG> , <[9], [11], NEG> , <[9], [13], NEG> , <[16], [23], NEG> , <[16], [26], NEG> , <[16], [28], NEG>
+predicted:	 <[1], [3], NEG> , <[37], [34], POS> 
+
+346 
+gold:	 <[1], [0], POS> , <[4], [3], POS> , <[7], [6], POS> , <[13], [10], POS>
+predicted:	 <[1], [0], POS> , <[4], [3], POS> , <[7], [6], POS> 
+
+347 
+gold:	 <[6, 7, 8], [10], NEU> , <[2, 3], [10], NEU>
+predicted:	 <[3], [2], POS> 
+
+348 
+gold:	 <[14], [16], NEU> , <[19], [20], NEG>
+predicted:	 <[14], [16], POS> , <[19], [20], NEG> 
+
+349 
+gold:	 <[1], [3], POS> , <[13], [15], POS> , <[16], [15], POS>
+predicted:	 <[1], [3], POS> , <[7], [6], POS> 
+
+350 
+gold:	 <[14, 15], [13], POS>
+predicted:	 <[3, 4], [13], POS> , <[14, 15], [13], POS> 
+
+351 
+gold:	 <[1], [0], POS> , <[3, 4, 5, 6, 7, 8, 9], [0], POS> , <[11, 12, 13, 14, 15, 16, 17, 18, 19, 20], [22], POS> , <[28, 29], [22], NEU>
+predicted:	 <[1], [0], POS> , <[28, 29], [27], POS> 
+
+352 
+gold:	 <[0], [17, 18, 19, 20, 21], POS> , <[22], [17, 18, 19, 20, 21], POS> , <[26, 27, 28, 29, 30], [17, 18, 19, 20, 21], POS> , <[34, 35, 36, 37, 38, 39, 40], [17, 18, 19, 20, 21], POS> , <[34, 35, 36, 37, 38, 39, 40], [34], POS>
+predicted:	 <[37, 38], [34], POS> 
+
+353 
+gold:	 <[1, 2, 3], [17], POS>
+predicted:	 <[1, 2, 3], [17], POS> 
+
+354 
+gold:	 <[18], [14, 15, 16, 17], NEG>
+predicted:	 <[7], [6], POS> 
+
+355 
+gold:	 <[11, 12, 13, 14], [10], NEG>
+predicted:	 <[2, 3, 4], [1], POS> 
+
+356 
+gold:	 <[16], [15], POS>
+predicted:	 <[16], [15], POS> 
+
+357 
+gold:	 <[8], [7], POS> , <[11], [10], POS>
+predicted:	 <[4, 5], [0], POS> , <[8], [7], POS> 
+
+358 
+gold:	 <[3], [13], POS>
+predicted:	  
+
+359 
+gold:	 <[19], [18], NEG>
+predicted:	 <[19], [18], NEG> 
+
+360 
+gold:	 <[13], [12], POS>
+predicted:	 <[6], [2], POS> 
+
+361 
+gold:	 <[4], [5], POS> , <[9], [13, 14, 15, 16, 17], POS> , <[9], [21], POS> , <[9], [23], POS>
+predicted:	 <[4], [5], POS> 
+
+362 
+gold:	 <[3], [2], POS> , <[6], [5], POS> , <[10, 11, 12, 13, 14, 15, 16], [9], POS> , <[22], [19, 20], POS>
+predicted:	 <[3], [2], POS> , <[6], [5], POS> , <[10, 11, 12], [9], POS> 
+
+363 
+gold:	 <[1], [3], POS> , <[8], [6], POS> , <[10, 11, 12], [6], POS> , <[14], [6], POS> , <[16, 17], [6], POS>
+predicted:	 <[1], [3], POS> , <[8], [6], POS> , <[11, 12], [10], POS> , <[14, 15, 16, 17], [10], POS> , <[14, 15, 16, 17], [6], *NULL*> , <[14, 15, 16, 17], [3], *NULL*> 
+
+364 
+gold:	 <[9], [8], POS>
+predicted:	  
+
+365 
+gold:	 <[3, 4], [7], POS>
+predicted:	 <[3, 4], [7], POS> 
+
+366 
+gold:	 <[1, 2], [4], POS> , <[7], [8], POS> , <[13], [12], POS> , <[13], [14], POS>
+predicted:	 <[1, 2], [4], POS> , <[7], [8], POS> , <[13], [12], POS> 
+
+367 
+gold:	 <[4], [3], POS>
+predicted:	 <[8, 9], [7], POS> 
+
+368 
+gold:	 <[14], [12], POS> , <[17], [20], POS> , <[23], [26], POS>
+predicted:	 <[14], [12], POS> , <[17], [20], POS> 
+
+369 
+gold:	 <[8], [12], POS>
+predicted:	 <[8], [12], POS> 
+
+370 
+gold:	 <[3], [2], POS>
+predicted:	 <[3], [2], POS> 
+
+371 
+gold:	 <[9], [13], POS> , <[11], [13], POS>
+predicted:	 <[11], [13], POS> , <[9], [13], POS> 
+
+372 
+gold:	 <[1, 2], [5], POS> , <[1, 2], [7], POS> , <[8], [7], POS> , <[12], [11], POS> , <[15], [14], POS>
+predicted:	 <[1, 2], [7], POS> , <[8], [7], POS> , <[12], [11], POS> , <[15], [14], POS> 
+
+373 
+gold:	 <[5], [4], NEG> , <[15], [14], NEG>
+predicted:	 <[15], [14], POS> 
+
+374 
+gold:	 <[1], [3], NEU> , <[7], [9], NEG>
+predicted:	 <[1], [3], POS> , <[7], [9], NEG> 
+
+375 
+gold:	 <[1], [3, 4], NEG> , <[6], [3, 4], NEG>
+predicted:	 <[1], [3, 4], NEG> , <[6], [3, 4], NEG> 
+
+376 
+gold:	 <[14], [13], NEU>
+predicted:	  
+
+377 
+gold:	 <[1], [3, 4], POS>
+predicted:	 <[1], [3, 4], NEG> 
+
+378 
+gold:	 <[1, 2, 3], [19], NEU> , <[8, 9, 10, 11], [7], POS>
+predicted:	 <[1, 2, 3], [7], POS> , <[10, 11], [7], POS> 
+
+379 
+gold:	 <[0], [2], POS> , <[7], [2], POS> , <[9], [12], POS> , <[15, 16], [12], POS>
+predicted:	 <[0], [2], POS> , <[9], [12], POS> 
+
+380 
+gold:	 <[7, 8], [10], POS> , <[5], [10], POS>
+predicted:	 <[7, 8], [10], POS> , <[5], [10], POS> 
+
+381 
+gold:	 <[6, 7], [3], POS> , <[9, 10], [3], POS> , <[12, 13, 14, 15, 16, 17], [3], POS> , <[19, 20, 21, 22, 23], [3], POS> , <[28, 29, 30, 31], [25, 26], NEU>
+predicted:	 <[28, 29, 30, 31], [30], POS> , <[31], [34], POS> 
+
+382 
+gold:	 <[15], [19, 20], POS>
+predicted:	  
+
+383 
+gold:	 <[0], [2], NEG>
+predicted:	 <[0], [2], POS> 
+
+384 
+gold:	 <[12], [11], POS>
+predicted:	  
+
+385 
+gold:	 <[9, 10], [8], POS> , <[18], [15], POS> , <[20], [15], POS> , <[23], [15], POS> , <[25], [15], POS>
+predicted:	 <[0, 1, 2], [8], POS> , <[23], [8], POS> , <[25], [8], POS> 
+
+386 
+gold:	 <[9], [11, 12], NEG>
+predicted:	 <[5], [7], NEG> 
+
+387 
+gold:	 <[1], [3, 4], POS>
+predicted:	  
+
+388 
+gold:	 <[0], [2], NEU>
+predicted:	 <[7, 8, 9, 10, 11], [6], POS> 
+
+389 
+gold:	 <[9, 10, 11, 12, 13, 14], [8], POS> , <[27, 28, 29, 30, 31], [26], POS>
+predicted:	 <[9, 10, 11, 12, 13, 14], [8], POS> 
+
+390 
+gold:	 <[10], [4], POS> , <[10], [6, 7, 8, 9], POS> , <[18], [14], POS> , <[18], [16, 17], POS>
+predicted:	 <[8, 9, 10], [6, 7], NEG> , <[17, 18], [16, 17], POS> 
+
+391 
+gold:	 <[9], [7], NEU> , <[13, 14], [18], POS>
+predicted:	 <[9], [7], POS> 
+
+392 
+gold:	 <[4], [3], POS> , <[7], [6], POS>
+predicted:	 <[4], [3], POS> , <[7], [6], POS> 
+
+393 
+gold:	 <[3], [0, 1], POS> , <[10], [6, 7], NEG>
+predicted:	 <[3], [6], POS> , <[10], [6], POS> 
+
+394 
+gold:	 <[1], [4], POS>
+predicted:	 <[1], [4], POS> 
+
+395 
+gold:	 <[0], [3], NEG>
+predicted:	 <[0], [3], POS> 
+
+396 
+gold:	 <[1, 2], [5], POS> , <[1, 2], [7], POS>
+predicted:	 <[1, 2], [5], POS> , <[1, 2], [7], POS> 
+
+397 
+gold:	 <[6], [5], POS>
+predicted:	 <[1], [0], POS> 
+
+398 
+gold:	 <[1], [4], POS> , <[11], [8], POS> , <[11], [10], POS>
+predicted:	 <[1], [4], POS> , <[1], [8], POS> , <[11], [10], POS> 
+
+399 
+gold:	 <[11], [1], POS> , <[11], [3], POS> , <[11], [5], POS> , <[16], [1], POS> , <[16], [18], POS> , <[16], [20], POS>
+predicted:	 <[16], [18], POS> , <[11], [18], POS> , <[16], [20], POS> , <[11], [20], *NULL*> 
+
+400 
+gold:	 <[0], [2], POS> , <[7], [2], POS>
+predicted:	 <[0], [2], POS> , <[7], [2], POS> 
+
+401 
+gold:	 <[7], [15], NEU> , <[12], [15], NEG>
+predicted:	 <[12], [15], POS> 
+
+402 
+gold:	 <[1], [3], POS> , <[6], [7], POS> , <[11], [13], POS>
+predicted:	 <[1], [3], POS> , <[6], [7], POS> , <[11], [13], POS> 
+
+403 
+gold:	 <[1], [0], POS> , <[5], [3, 4], POS> , <[8], [7], POS>
+predicted:	 <[1], [0], POS> , <[1], [4], POS> , <[5], [4], POS> , <[5], [3], POS> , <[8], [7], POS> 
+
+404 
+gold:	 <[1], [0], POS> , <[4], [3], POS> , <[8], [7], POS>
+predicted:	 <[1], [0], POS> , <[4], [3], POS> , <[8], [7], POS> 
+
+405 
+gold:	 <[0], [2], POS>
+predicted:	 <[0], [2], POS> , <[6], [2], POS> 
+
+406 
+gold:	 <[3], [1], POS> , <[6], [1], POS> , <[11, 12, 13], [1], POS>
+predicted:	 <[3], [1], POS> , <[11, 12, 13], [1], POS> 
+
+407 
+gold:	 <[1, 2], [4], POS>
+predicted:	 <[1, 2], [4], POS> 
+
+408 
+gold:	 <[1, 2], [5], POS>
+predicted:	 <[1, 2], [5], POS> 
+
+409 
+gold:	 <[1], [3], POS>
+predicted:	 <[1], [3], POS> 
+
+410 
+gold:	 <[1], [3], POS> , <[6], [8], POS>
+predicted:	 <[1], [3], POS> , <[6], [8], POS> 
+
+411 
+gold:	 <[1], [4], POS> , <[7], [9], POS>
+predicted:	 <[1], [4], POS> , <[7], [9], POS> 
+
+412 
+gold:	 <[3, 4], [1], POS>
+predicted:	 <[3, 4], [1], POS> 
+
+413 
+gold:	 <[1], [0], POS> , <[4], [3], POS>
+predicted:	 <[1], [0], POS> , <[4], [3], POS> 
+
+414 
+gold:	 <[1, 2, 3], [5], POS> , <[1, 2, 3], [7, 8, 9], POS> , <[1, 2, 3], [12, 13, 14], POS> , <[14], [12], POS>
+predicted:	 <[1, 2, 3], [5], POS> , <[1, 2, 3], [7, 8, 9], POS> 
+
+415 
+gold:	 <[1], [3], POS> , <[1], [5], POS> , <[8], [10], POS> , <[14], [16], POS>
+predicted:	 <[1], [3], POS> , <[1], [5], POS> , <[8], [10], POS> , <[14], [16], POS> 
+
+416 
+gold:	 <[1, 2], [0], POS>
+predicted:	 <[2], [0], POS> 
+
+417 
+gold:	 <[1], [4], POS> , <[1], [7], POS>
+predicted:	 <[1], [4], POS> , <[1], [7], POS> 
+
+418 
+gold:	 <[5], [4], POS> , <[7], [4], POS> , <[10], [4], POS>
+predicted:	 <[5], [4], POS> , <[7], [4], POS> , <[10], [4], POS> 
+
+419 
+gold:	 <[2, 3], [1], POS>
+predicted:	 <[2], [1], POS> 
+
+420 
+gold:	 <[1], [3, 4, 5, 6], NEG> , <[9], [11], NEG>
+predicted:	 <[1], [6], POS> , <[9], [11], NEG> 
+
+421 
+gold:	 <[7], [6], POS>
+predicted:	 <[7], [6], POS> 
+
+422 
+gold:	 <[1], [6], POS> , <[3], [6], POS>
+predicted:	 <[3], [6], POS> , <[1], [6], POS> 
+
+423 
+gold:	 <[7, 8], [6], POS>
+predicted:	 <[7, 8, 9, 10, 11], [6], POS> 
+
+424 
+gold:	 <[2], [8], POS>
+predicted:	  
+
+425 
+gold:	 <[4], [2], POS> , <[6], [2], POS> , <[8], [10], POS>
+predicted:	 <[4], [2], POS> , <[6], [2], POS> , <[8], [2], POS> , <[8], [10], POS> , <[6], [10], POS> 
+
+426 
+gold:	 <[2, 3], [0], POS>
+predicted:	 <[2, 3], [0], POS> 
+
+427 
+gold:	 <[4], [3], POS> , <[4], [9, 10], POS>
+predicted:	 <[4], [3], POS> 
+
+428 
+gold:	 <[6, 7], [10], POS> , <[6, 7], [14], POS>
+predicted:	 <[7], [10], POS> , <[7], [14], POS> 
+
+429 
+gold:	 <[4], [5], POS> , <[4], [12], POS>
+predicted:	 <[4], [5], POS> , <[4], [7], POS> 
+
+430 
+gold:	 <[1], [3], POS> , <[1], [5], POS> , <[8], [10], POS> , <[8], [12], POS> , <[16], [18], POS>
+predicted:	 <[1], [3], POS> , <[1], [5], POS> , <[8], [10], POS> , <[8], [12], POS> , <[1], [12], *NULL*> , <[16], [18], POS> 
+
+431 
+gold:	 <[1], [0], POS> , <[3, 4], [0], POS> , <[6, 7], [0], POS>
+predicted:	 <[1], [0], POS> , <[3, 4], [0], POS> , <[6, 7], [0], POS> 
+
+432 
+gold:	 <[1, 2], [9], POS> , <[4, 5, 6], [9], POS>
+predicted:	  
+
+433 
+gold:	 <[0], [2], POS>
+predicted:	 <[0], [2], POS> 
+
+434 
+gold:	 <[13], [17], NEG>
+predicted:	 <[6], [5], POS> 
+
+435 
+gold:	 <[4], [5], POS> , <[27], [25], POS>
+predicted:	 <[4], [25], POS> , <[27], [25], POS> 
+
+436 
+gold:	 <[1], [0], POS>
+predicted:	 <[1], [0], POS> 
+
+437 
+gold:	 <[1, 2], [0], NEU> , <[5], [4], NEU> , <[8, 9], [7], NEU> , <[12, 13], [11], NEU> , <[16, 17], [15], NEU>
+predicted:	 <[17], [15, 16], NEG> 
+
+438 
+gold:	 <[1], [0], NEU> , <[19, 20], [16], POS> , <[19, 20], [18], POS>
+predicted:	 <[4], [3], POS> 
+
+439 
+gold:	 <[10, 11, 12], [9], POS> , <[26, 27], [30, 31], POS> , <[26, 27], [33], POS>
+predicted:	 <[9, 10, 11, 12], [6], POS> , <[26, 27, 28], [31], POS> , <[26, 27, 28], [36], POS> 
+
+440 
+gold:	 <[1, 2, 3], [11], NEG> , <[8], [11], NEU>
+predicted:	 <[1, 2, 3], [11], NEG> 
+
+441 
+gold:	 <[1], [10], NEG> , <[17], [16], NEG> , <[22], [30], NEG> , <[22], [32, 33, 34], NEG> , <[45], [41], NEG>
+predicted:	 <[1], [16], NEG> , <[22], [16], POS> , <[35], [32], NEG> , <[42], [41], NEG> , <[45], [48], NEG> 
+
+442 
+gold:	 <[13], [12], POS>
+predicted:	 <[13], [12], POS> 
+
+443 
+gold:	 <[6], [5], POS> , <[9], [8], POS> , <[12], [14], POS> , <[12], [24], POS> , <[28], [27], POS>
+predicted:	 <[6], [5], POS> , <[9], [8], POS> , <[12], [14], POS> , <[28], [27], POS> 
+
+444 
+gold:	 <[9], [18], POS> , <[11], [18], POS> , <[13], [18], POS> , <[15, 16], [18], NEU>
+predicted:	 <[15, 16], [18], POS> , <[13], [18], POS> , <[15, 16], [20, 21], POS> , <[13], [20, 21], *NULL*> 
+
+445 
+gold:	 <[14], [9], POS> , <[14], [11, 12, 13], POS>
+predicted:	  
+
+446 
+gold:	 <[6], [3], POS> , <[6], [5], POS> , <[11, 12], [8], NEU> , <[11, 12], [10], NEU> , <[15, 16, 17, 18], [8], NEU> , <[15, 16, 17, 18], [10], NEU> , <[20, 21, 22, 23], [8], NEU> , <[20, 21, 22, 23], [10], NEU> , <[25, 26, 27, 28], [8], NEU> , <[25, 26, 27, 28], [10], NEU> , <[30, 31, 32, 33, 34], [8], NEU> , <[30, 31, 32, 33, 34], [10], NEU> , <[37, 38, 39, 40, 41, 42, 43], [8], NEU> , <[37, 38, 39, 40, 41, 42, 43], [10], NEU>
+predicted:	 <[6], [5], POS> , <[6], [3], POS> , <[6], [8], POS> , <[11, 12], [10], POS> , <[15, 16, 17, 18], [8], POS> , <[15, 16, 17, 18], [5], POS> 
+
+447 
+gold:	 <[1], [3], POS> , <[19], [6, 7], POS>
+predicted:	 <[1], [3], POS> , <[19], [6, 7], POS> 
+
+448 
+gold:	 <[1], [3], POS> , <[1], [5], POS>
+predicted:	 <[1], [3], POS> , <[1], [5], POS> 
+
+449 
+gold:	 <[1, 2], [4], POS> , <[10, 11], [8], POS>
+predicted:	 <[1, 2], [4], POS> , <[1, 2], [10], POS> , <[11], [10], POS> 
+
+450 
+gold:	 <[6], [8], POS> , <[6], [11, 12], POS>
+predicted:	 <[6], [8], POS> , <[6], [12], POS> 
+
+451 
+gold:	 <[24], [23], POS>
+predicted:	 <[24], [23], POS> 
+
+452 
+gold:	 <[8], [10], POS>
+predicted:	  
+
+453 
+gold:	 <[19], [14], POS> , <[22, 23], [14], POS>
+predicted:	 <[19], [14], POS> , <[22, 23], [14], POS> 
+
+454 
+gold:	 <[29], [28], POS> , <[34], [36], POS>
+predicted:	 <[29], [28], POS> , <[29], [1], POS> 
+
+455 
+gold:	 <[1], [3], POS> , <[1], [7], POS> , <[1], [10], POS> , <[1], [12], POS>
+predicted:	 <[1], [3], POS> , <[1], [7], NEG> , <[1], [10], POS> , <[1], [12], POS> 
+
+456 
+gold:	 <[3, 4], [6, 7, 8], NEG> , <[18, 19], [17], POS> , <[15], [14], POS>
+predicted:	 <[3, 4], [8], POS> , <[18, 19], [17], POS> 
+
+457 
+gold:	 <[11], [4], NEG>
+predicted:	 <[11], [4], NEG> 
+
+458 
+gold:	 <[25, 26], [24], POS> , <[28, 29], [24], POS> , <[22], [20], POS>
+predicted:	 <[22], [20], POS> , <[25, 26], [24], POS> 
+
+459 
+gold:	 <[1], [0], POS> , <[15], [14], NEU> , <[18, 19], [17], NEU>
+predicted:	 <[22, 23, 24], [0], POS> 
+
+460 
+gold:	 <[8], [1], POS>
+predicted:	 <[2], [1], POS> 
+
+461 
+gold:	 <[18, 19], [16], POS> , <[10], [7], POS>
+predicted:	 <[14], [13], POS> , <[19], [18], POS> 
+
+462 
+gold:	 <[13], [30], POS> , <[17, 18], [30], POS> , <[23, 24, 25, 26, 27], [30], POS>
+predicted:	 <[3, 4], [6], NEG> , <[17, 18], [20], POS> 
+
+463 
+gold:	 <[1], [0], NEG>
+predicted:	 <[1], [0], NEG> 
+
+464 
+gold:	 <[1], [3], POS> , <[1], [6], POS>
+predicted:	 <[1], [3], POS> , <[1], [6], POS> 
+
+465 
+gold:	 <[6], [8], NEG> , <[14], [23], NEG> , <[26], [23], NEG>
+predicted:	 <[6], [8], NEG> , <[26], [23], POS> 
+
+466 
+gold:	 <[1], [5], NEG>
+predicted:	 <[1], [5], NEG> 
+
+467 
+gold:	 <[0], [7], POS>
+predicted:	 <[0], [7], POS> 
+
+468 
+gold:	 <[12], [9], POS> , <[12], [11], POS> , <[3, 4, 5], [1], POS>
+predicted:	 <[3, 4, 5], [1], POS> , <[12], [11], POS> 
+
+469 
+gold:	 <[2], [1], POS>
+predicted:	 <[2], [1], POS> 
+
+470 
+gold:	 <[2], [8], NEU> , <[5], [8], POS>
+predicted:	  
+
+471 
+gold:	 <[1], [4], POS> , <[6, 7], [4], POS> , <[10, 11], [12], POS>
+predicted:	 <[1], [4], POS> , <[7], [6], POS> , <[7], [4], POS> , <[11], [10], POS> 
+
+472 
+gold:	 <[4, 5], [6], NEG>
+predicted:	 <[4, 5], [11], POS> 
+
+473 
+gold:	 <[32], [29], POS> , <[32], [31], POS>
+predicted:	 <[6, 7], [3], POS> , <[6, 7], [29], POS> 
+
+474 
+gold:	 <[1, 2, 3, 4], [6], NEU> , <[9, 10, 11], [9], NEU>
+predicted:	 <[3, 4], [6], POS> 
+
+475 
+gold:	 <[7], [9], NEG>
+predicted:	 <[7], [9], NEG> 
+
+476 
+gold:	 <[18], [20], POS> , <[23], [27], POS>
+predicted:	 <[1], [3], POS> , <[18], [20], POS> 
+
+477 
+gold:	 <[4, 5], [9, 10], NEU>
+predicted:	  
+
+478 
+gold:	 <[2], [6], NEG> , <[11, 12], [15], POS>
+predicted:	 <[2], [6], POS> , <[11, 12], [15], POS> 
+
+479 
+gold:	 <[18], [28], POS> , <[24], [28], POS>
+predicted:	 <[1], [4], NEG> 
+
+480 
+gold:	 <[7], [6], NEG>
+predicted:	 <[1], [3], POS> , <[7], [6], POS> 
+
+481 
+gold:	 <[25], [23], NEG> , <[1, 2], [6], POS>
+predicted:	 <[2], [6], POS> , <[7], [6], POS> , <[7], [11], POS> , <[29], [31], POS> 
+
+482 
+gold:	 <[8], [11], POS>
+predicted:	 <[8], [11], POS> 
+
+483 
+gold:	 <[6], [5], NEU> , <[9], [8], NEG>
+predicted:	 <[6], [5], NEG> , <[9], [8], NEG> 
+
+484 
+gold:	 <[6], [8, 9], NEG> , <[1], [3], NEU>
+predicted:	 <[1], [3], NEG> , <[6], [8, 9], NEG> 
+
+485 
+gold:	 <[10], [12], NEU>
+predicted:	 <[10], [12], POS> 
+
+486 
+gold:	 <[20], [19], NEG>
+predicted:	 <[8], [13, 14], NEG> 
+
+487 
+gold:	 <[2], [0], POS> , <[2], [5], POS>
+predicted:	 <[1, 2], [0], POS> 
+
+488 
+gold:	 <[29], [32], NEG> , <[6], [1], NEU>
+predicted:	 <[6], [1], POS> , <[29], [32], NEG> 
+
+489 
+gold:	 <[3], [5], NEG>
+predicted:	 <[3], [5], NEG> 
+
+490 
+gold:	 <[0], [2], POS> , <[0], [4], POS>
+predicted:	 <[0], [2], POS> , <[0], [4], POS> 
+
+491 
+gold:	 <[0, 1], [0], POS> , <[0, 1], [21], POS> , <[24, 25], [24], NEU> , <[3], [0], POS> , <[5, 6], [21], POS> , <[9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], [21], POS>
+predicted:	 <[1], [0], POS> , <[5, 6], [0], POS> , <[9, 10], [0], POS> , <[18, 19, 20, 21], [0], POS> , <[18, 19, 20, 21], [21], POS> , <[18, 19, 20, 21], [24], POS> , <[5, 6], [24], POS> 
+

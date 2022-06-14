@@ -3,12 +3,12 @@ Source code for Neurocomputing paper: [Neural Transition Model for Aspect-based 
 
 ### Transition scheme
 <p align="center">
-  <img src="./figures/transition.png" width="400"/>
+  <img src="./figures/transition.png" width="500"/>
 </p>
 
 ### Triplet Memory
 <p align="center">
-  <img src="./figures/triplet-memory.png" />
+  <img src="./figures/triplet-memory.png" width="500"/>
 </p>
 
 
